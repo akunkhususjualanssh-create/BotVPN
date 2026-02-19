@@ -120,8 +120,6 @@ https://drive.google.com/file/d/1Sj37lUzkizp2-OoriCgVUC1IDRGlP1e3/view?usp=drive
 📥 *Download Config Ovpn*:
 🔗 http://${s.hostname}:81/myvpn-config.zip
 
-📥 *GRUP TESTIMOINI & BERBAGI BUG*:
-🔗 http://t.me/RAJA\\_VPN\\_STORE
 
 *© Telegram Bots - 2025*
 ✨ Terima kasih telah menggunakan layanan kami!
@@ -227,8 +225,6 @@ https://drive.google.com/file/d/1SmgoAUjTf9tt297deVkn6cd7ZOuha62a/view?usp=drive
 2️⃣ Ikuti panduan di dalam video
 3️⃣ Selesai & Connect 🚀  
 
-📥 *GRUP TESTIMOINI & BERBAGI BUG*:
-🔗 http://t.me/RAJA\\_VPN\\_STORE
 
 *© Telegram Bots - 2025*
 ✨ Terima kasih telah menggunakan layanan kami!
@@ -335,8 +331,7 @@ https://drive.google.com/file/d/1SmgoAUjTf9tt297deVkn6cd7ZOuha62a/view?usp=drive
 2️⃣ Ikuti panduan di dalam video
 3️⃣ Selesai & Connect 🚀  
 
-📥 *GRUP TESTIMOINI & BERBAGI BUG*:
-🔗 http://t.me/RAJA\\_VPN\\_STORE
+
 
 *© Telegram Bots - 2025*
 ✨ Terima kasih telah menggunakan layanan kami!
@@ -438,8 +433,7 @@ https://drive.google.com/file/d/1SmgoAUjTf9tt297deVkn6cd7ZOuha62a/view?usp=drive
 2️⃣ Ikuti panduan di dalam video
 3️⃣ Selesai & Connect 🚀  
 
-📥 *GRUP TESTIMOINI & BERBAGI BUG*:
-🔗 http://t.me/RAJA\\_VPN\\_STORE
+
 
 *© Telegram Bots - 2025*
 ✨ Terima kasih telah menggunakan layanan kami!
