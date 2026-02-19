@@ -392,7 +392,7 @@ const statusReseller = isReseller ? 'Reseller' : 'Bukan Reseller';
 
   const messageText = `
 ╭─ <b>⚡ BOT VPN ${NAMA_STORE} ⚡</b>
-├ Bot VPN Premium dengan sistem otomatis
+├ Bot order serba otomatis tanpa nunggu admin
 ├ Pembelian layanan VPN berkualitas tinggi
 └ Akses internet cepat & aman dengan server terpercaya! 
 
@@ -417,8 +417,8 @@ Status: <code>${statusReseller}</code>
 • 🔑 Menu Admin   : /admin
 • 🛡️ Admin Panel  : /helpadmin
 
-👨‍💻 <b>Pembuat:</b> @ARI_VPN_STORE
-🛠️ <b>Credit:</b> ARI STORE × API POTATO
+👨‍💻 <b>Pembuat:</b> @gensshstore
+🛠️ <b>Credit:</b> abdul ghani × API POTATO
 🔧 <b>Base:</b> FighterTunnel
 👥 <b>Pengguna BOT:</b> ${jumlahPengguna}
 ⏱️ <b>Latency:</b> ${latency} ms
