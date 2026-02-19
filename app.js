@@ -3969,14 +3969,6 @@ const qrBuffer = Buffer.from(qrResponse.data);
 
 const SOCKS_POOL = [
 'aristore:1447@socks5.rajaserverpremium.web.id:1080',
-'aristore:1447@idtechno.rajaserverpremium.web.id:1080',
-'aristore:1447@idtechno2.rajaserverpremium.web.id:1080',
-'aristore:1447@biznet.rajaserverpremium.web.id:1080',
-'aristore:1447@biznet2.rajaserverpremium.web.id:1080',
-'aristore:1447@newmedia5.rajaserverpremium.web.id:1080',
-'aristore:1447@biznet4.rajaserverpremium.web.id:1080',
-'aristore:1447@newmedia7.rajaserverpremium.web.id:1080',
-'aristore:1447@newmedia8.rajaserverpremium.web.id:1080',
 ];
 
 function getRandomProxy() {
