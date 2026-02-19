@@ -79,10 +79,15 @@ if (exp >= 1 && exp <= 135) {
 *🔑 Account ZIVPN UDP*
 📡 *DOMAIN*    : \`${s.hostname}\`
 🔑 *Password*     : \`${s.username}\`
-
-📘 *TUTORIAL PASANG ZIVPN*
-📂 Google Drive:
-https://drive.google.com/file/d/1BAPWA4ejDsq0IcXxJt72GfjD4224iDpI/view?usp=sharing
+cara pasang udp zivpn 
+1 buka apk zivpn 
+2 pencet titik tiga di kiri atas
+3 pencet udp tunnel 
+4 isi host 
+5 isi password 
+6 apply
+7 start 
+selamat anda sudah menggunakan nya 😁
 ────────────────────────
 🌍 *Host*         : \`${s.hostname}\`
 🏢 *ISP*          : \`${s.ISP}\`
@@ -140,11 +145,10 @@ https://drive.google.com/file/d/1Sj37lUzkizp2-OoriCgVUC1IDRGlP1e3/view?usp=drive
 📥 *Download Config Ovpn*:
 🔗 http://${s.hostname}:81/myvpn-config.zip
 
-📥 *GRUP TESTIMOINI & BERBAGI BUG*:
-🔗 http://t.me/RAJA\\_VPN\\_STORE
 
 *© Telegram Bots - 2025*
 ✨ Terima kasih telah menggunakan layanan kami!
+hanya gen ssh store yang paling mantap 😁
 `;
         return resolve(msg);
       });
@@ -264,8 +268,6 @@ https://drive.google.com/file/d/1SmgoAUjTf9tt297deVkn6cd7ZOuha62a/view?usp=drive
 2️⃣ Ikuti panduan di dalam video
 3️⃣ Selesai & Connect 🚀  
 
-📥 *GRUP TESTIMOINI & BERBAGI BUG*:
-🔗 http://t.me/RAJA\\_VPN\\_STORE
 
 *© Telegram Bots - 2025*
 ✨ Terima kasih telah menggunakan layanan kami!
@@ -389,9 +391,6 @@ https://drive.google.com/file/d/1SmgoAUjTf9tt297deVkn6cd7ZOuha62a/view?usp=drive
 2️⃣ Ikuti panduan di dalam video
 3️⃣ Selesai & Connect 🚀  
 
-📥 *GRUP TESTIMOINI & BERBAGI BUG*:
-🔗 http://t.me/RAJA\\_VPN\\_STORE
-
 *© Telegram Bots - 2025*
 ✨ Terima kasih telah menggunakan layanan kami!
 `;
@@ -509,8 +508,6 @@ https://drive.google.com/file/d/1SmgoAUjTf9tt297deVkn6cd7ZOuha62a/view?usp=drive
 2️⃣ Ikuti panduan di dalam video
 3️⃣ Selesai & Connect 🚀  
 
-📥 *GRUP TESTIMOINI & BERBAGI BUG*:
-🔗 http://t.me/RAJA\\_VPN\\_STORE
 
 *© Telegram Bots - 2025*
 ✨ Terima kasih telah menggunakan layanan kami!
